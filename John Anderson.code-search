@@ -1,0 +1,14 @@
+# Query: John Anderson
+# ContextLines: 1
+
+4 results - 1 file
+
+index.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   6:     <title>Sanad Madi | Mechanical Engineer - Research-Driven | Systems & Design</title>
+   7:     <meta name="description" content="Professional portfolio of John Anderson, Mechanical Engineer specializing in dynamics, materials science, and computational analysis. View research, projects, and publications." />
+   8      <meta name="keywords" content="Mechanical Engineer, Research, CAD, FEA, ANSYS, SolidWorks, MIT, Portfolio" />
+   9:     <meta name="author" content="John Anderson" />
+  10  
+  11:     <meta property="og:title" content="John Anderson | Mechanical Engineer" />
+  12      <meta property="og:description" content="Research-driven mechanical engineer specializing in dynamics, materials science, and computational mechanics." />
